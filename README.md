@@ -1,5 +1,8 @@
 <img src='https://media.licdn.com/dms/image/C5616AQG46Du6qtCgRw/profile-displaybackgroundimage-shrink_350_1400/0/1608210694465?e=1698278400&v=beta&t=znGyjMj42hxmXzJOhC6j0lZ2qWXevUR90GJ0dA_4RP8' style="width: auto;"/>
 
+### Hi 👋, I'm Naufal
+🤸🏼‍♂️ A passionate QA Engineer
+
 ### 💫 About Me:
 🔭 I’m currently working on Klinik OS Offline<br>🌱 I’m currently learning WebdriverIO and Appium<br>⚡ Fun fact Trying to maintain 1 month 1 course
 
