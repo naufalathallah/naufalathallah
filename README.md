@@ -4,7 +4,6 @@
 🔭 I’m currently working on Klinik OS Offline<br>🌱 I’m currently learning WebdriverIO and Appium<br>⚡ Fun fact Trying to maintain 1 month 1 course
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=naufalathallah&theme=react&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=naufalathallah&theme=react&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=naufalathallah&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
