@@ -4,7 +4,7 @@
 🤸🏼‍♂️ A passionate QA Engineer
 
 ### 💫 About Me:
-🔭 I’m currently working on Klinik OS Offline<br>🌱 I’m currently learning WebdriverIO and Appium<br>⚡ Fun fact, I’m Trying to maintain 1 month 1 course
+🔭 I’m currently working on Klinik OS Offline<br>🌱 I’m currently learning WebdriverIO and Appium<br>⚡ Fun fact, I’m trying to maintain 1 month 1 course
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=naufalathallah&theme=react&hide_border=true)
