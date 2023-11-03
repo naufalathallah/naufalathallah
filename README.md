@@ -1,5 +1,3 @@
-<img src='https://media.licdn.com/dms/image/C5616AQG46Du6qtCgRw/profile-displaybackgroundimage-shrink_350_1400/0/1608210694465?e=1698278400&v=beta&t=znGyjMj42hxmXzJOhC6j0lZ2qWXevUR90GJ0dA_4RP8' style="width: auto;"/>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naufalathallah&label=Profile%20views&color=0e75b6&style=flat" alt="naufalathallah" /> </p>
 
 ### Hi 👋, I'm Naufal
