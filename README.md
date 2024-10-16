@@ -4,7 +4,7 @@
 🤸🏼‍♂️ A passionate QA Engineer
 
 ### 💫 About Me:
-🔭 I’m currently working on Teman Diabetes and Teman Bumil<br>🌱 I’m currently exploring Three.js and Typescript<br>⚡ Fun fact, I’m trying to maintain 1 month 1 course
+🔭 I’m recently working on Teman Diabetes, Teman Bumil, and Homecare<br>🌱 I’m currently exploring Three.js and Typescript<br>⚡ Fun fact, I’m trying to maintain 1 month 1 course
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=naufalathallah&theme=react&hide_border=true)
