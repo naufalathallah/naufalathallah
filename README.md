@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naufalathallah&label=Profile%20views&color=0e75b6&style=flat" alt="naufalathallah" /> </p>
 
-### Hi 👋, I'm Naufal
-🤸🏼‍♂️ A passionate QA Engineer
+### Hi 👋, I'm Naufal Athallah Iwel
+🤸🏼‍♂️ My name is **Naufal Athallah Iwel**, a passionate QA Engineer
 
 ### 💫 About Me:
 🔭 I’m recently working on Teman Diabetes, Teman Bumil, and Homecare<br>🌱 I’m currently exploring Three.js and Typescript<br>⚡ Fun fact, I’m trying to maintain 1 month 1 course
