@@ -21,6 +21,7 @@
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat&logo=Vite&logoColor=white) 
 ![Express](https://img.shields.io/badge/Express-%23000000.svg?style=flat&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=flat&logo=bun&logoColor=white)
 
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=flat&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=flat&logo=postgresql&logoColor=white)
@@ -28,7 +29,6 @@
 ![DBeaver](https://img.shields.io/badge/DBeaver-%23382923.svg?style=flat&logo=DBeaver&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat&logo=amazonwebservices&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=flat&logo=jenkins&logoColor=white)
-
 
 ![Jira](https://img.shields.io/badge/jira-%230052CC.svg?style=flat&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-%23172B4D.svg?style=flat&logo=Confluence&logoColor=white)
