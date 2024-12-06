@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naufalathallah&label=Profile%20views&color=0e75b6&style=flat" alt="Naufal Athallah Iwel" /> </p>
 
 ### Hi 👋, I'm Naufal Athallah Iwel
-🤸🏼‍♂️ My name is **Naufal Athallah Iwel**, a passionate SDET
+🤸🏼‍♂️ A passionate SDET
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=naufalathallah&theme=react&hide_border=true)
