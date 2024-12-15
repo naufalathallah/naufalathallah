@@ -7,6 +7,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=naufalathallah&theme=react&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=naufalathallah&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
+[![wakatime](https://wakatime.com/badge/user/40eb3a79-425b-415a-b850-2241197ae660.svg)](https://wakatime.com/@40eb3a79-425b-415a-b850-2241197ae660)
+
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=naufalathallah)
+
 ### 💻 Tech Stack: 
 ![Robot Framework](https://img.shields.io/badge/RobotFramework-%23000000.svg?style=flat&logo=robot-framework&logoColor=white)
 ![WebdriverIO](https://img.shields.io/badge/WebdriverIO-%23EA5906.svg?style=flat&logo=WebdriverIO&logoColor=white)
@@ -39,7 +43,6 @@
 ![Sentry](https://img.shields.io/badge/Sentry-%23362D59.svg?style=flat&logo=Sentry&logoColor=white)
 
 ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white)
-
 
 
 ### 🌐 Socials:
