@@ -5,7 +5,6 @@
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=naufalathallah&theme=react&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=naufalathallah&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 [![wakatime](https://wakatime.com/badge/user/40eb3a79-425b-415a-b850-2241197ae660.svg)](https://wakatime.com/@40eb3a79-425b-415a-b850-2241197ae660)
 
@@ -33,15 +32,12 @@
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=flat&logo=postgresql&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-%23382923.svg?style=flat&logo=DBeaver&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat&logo=amazonwebservices&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=flat&logo=jenkins&logoColor=white)
-
 ![Jira](https://img.shields.io/badge/jira-%230052CC.svg?style=flat&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-%23172B4D.svg?style=flat&logo=Confluence&logoColor=white)
+
 ![TestRail](https://img.shields.io/badge/TestRail-%2365C179.svg?style=flat&logo=TestRail&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-%23362D59.svg?style=flat&logo=Sentry&logoColor=white)
-
 ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white)
 
 
